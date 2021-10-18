@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hk-weather-alarm-page/static/css/main.ef730df1.chunk.css",
-    "main.js": "/hk-weather-alarm-page/static/js/main.85616b87.chunk.js",
-    "main.js.map": "/hk-weather-alarm-page/static/js/main.85616b87.chunk.js.map",
+    "main.js": "/hk-weather-alarm-page/static/js/main.656c0d4f.chunk.js",
+    "main.js.map": "/hk-weather-alarm-page/static/js/main.656c0d4f.chunk.js.map",
     "runtime-main.js": "/hk-weather-alarm-page/static/js/runtime-main.09e3dc0e.js",
     "runtime-main.js.map": "/hk-weather-alarm-page/static/js/runtime-main.09e3dc0e.js.map",
     "static/js/2.0a2a02bb.chunk.js": "/hk-weather-alarm-page/static/js/2.0a2a02bb.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.09e3dc0e.js",
     "static/js/2.0a2a02bb.chunk.js",
     "static/css/main.ef730df1.chunk.css",
-    "static/js/main.85616b87.chunk.js"
+    "static/js/main.656c0d4f.chunk.js"
   ]
 }
